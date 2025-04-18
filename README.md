@@ -92,6 +92,13 @@ Understanding what products customers buy together and how they behave as spende
 
 ---
 
+![image](https://github.com/user-attachments/assets/89a0c950-fb2c-4802-ae62-0cd93b43efc0)
+![image](https://github.com/user-attachments/assets/ed866b4c-0b99-4bda-8850-5304778f3b94)
+![image](https://github.com/user-attachments/assets/397bfb2c-9a24-481c-b9dc-5b858b33538f)
+
+
+
+
 ### 🎯 Clustering Output
 
 - Customers divided into 3 clusters
