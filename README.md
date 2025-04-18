@@ -105,13 +105,3 @@ Understanding what products customers buy together and how they behave as spende
 1. Open the notebook `market_basket_analysis.ipynb` in Google Colab
 2. Upload the file `10. Market Basket Analysis.csv`
 3. Run all cells to simulate data, generate rules, train model, and view visualizations
-
----
-
-## 📬 Contact
-
-Made with ❤ by [Your Name]  
-📧 your.email@example.com  
-🔗 https://github.com/yourusername
-
----
